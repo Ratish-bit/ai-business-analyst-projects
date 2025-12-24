@@ -1,0 +1,5 @@
+Analyze the sales data and generate a concise executive summary highlighting key revenue trends, high-performing regions, and potential risks.
+
+Summarize monthly performance in clear business language suitable for leadership review.
+
+Provide 3 actionable recommendations based on sales and profit trends.
